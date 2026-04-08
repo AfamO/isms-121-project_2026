@@ -1,0 +1,59 @@
+h1 {
+    font-size: 40px;
+}
+
+.established {
+    font-style: italic;
+}
+
+.menu {
+    background-color: burlywood;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+.price {
+    text-align: center;
+    width: 25%;
+}
+.dessert, .flavor {
+    text-align: center;
+    width: 75%;
+}
+.item p {
+    display: inline-block;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -23px;
+}
+body{
+    background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcJcCXiLpuafFeSpA7-pkh88K2P3uSu0_L9zPAZCn0qxg-XUPl);
+    font-family: sans-serif;
+}
+
+a {
+    color: black;
+}
+a:hover {
+    color: white;
+}
+a:visited {
+    color: red;
+}
+a:active {
+    color: brown;
+}
+/*
+Class work: Center the footer
+*/
+footer {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 20px;
+}
